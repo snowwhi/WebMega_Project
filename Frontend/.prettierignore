@@ -4,6 +4,9 @@ coverage
 # Ignore artifacts:
 build
 coverage
-
+/node_module
 # Ignore all HTML files:
 **/*.html
+*.env
+.env
+.env.*
